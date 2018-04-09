@@ -10,5 +10,6 @@
 
 ## 更改内容
 
-* 安装 `axios` 插件
+* 安装 axios 插件
 * 添加 utils、api、filter 功能模块
+* eslintrc 添加自定义 rule

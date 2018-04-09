@@ -13,7 +13,7 @@ export default {
           twoArr[arrIdx][i % len] = el;
         });
         return twoArr;
-      },
+      }
     };
   }
 };
