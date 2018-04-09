@@ -7,3 +7,8 @@
 ## 打包项目
 
 `npm run build`
+
+## 更改内容
+
+* 安装 `axios` 插件
+* 添加 utils、api、filter 功能模块
